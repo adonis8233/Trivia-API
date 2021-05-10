@@ -1,5 +1,3 @@
-# Trivia-API
-An API for question website
 # Full Stack Trivia API Backend
 
 ## Getting Started
